@@ -41,10 +41,10 @@ The schema is enforced with various constraints to ensure data quality:
 
 ### 4\. Setup and Usage
 
-To set up this database, simply execute the `delsu_libraryDB.sql` script in a MySQL environment.
+To set up this database, simply execute the `delsu_library-DB.sql` script in a MySQL environment.
 
 ```bash
-mysql -u your_username -p < delsu_libraryDB.sql
+mysql -u your_username -p < delsu_library-DB.sql
 ```
 
 The script will:
